@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Wireless Headphones",
+    "category": "Audio",
+    "price": 199.99,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Gaming",
+    "price": 129.50,
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=400&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch Pro",
+    "category": "Wearables",
+    "price": 249.00,
+    "stock": 0,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&q=80"
+  }
+]
